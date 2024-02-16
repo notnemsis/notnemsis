@@ -20,7 +20,6 @@
 <a href="https://twitter.com/notnemsis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notnemsis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nemsis salman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nemsis salman" height="30" width="40" /></a>
 <a href="https://instagram.com/notnemsis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="notnemsis" height="30" width="40" /></a>
-<a href="https://discord.gg/notnemsis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="notnemsis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
