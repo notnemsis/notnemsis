@@ -1,8 +1,8 @@
 <h1 align="center">Hi I am Nemsis Salman</h1>
 <h3 align="center">I love the art of coding and how you can create something out of nothing.</h3>
 <hr>
-<h4>I am in my second week of learning HTML and CSS</h4>
-
+<h4 align="center">I am on my second week of learning HTML and CSS</h4>
+<hr>
 - 🔭 I’m currently working on styling FreeCodeCamp cat website with HTML AND CSS [catwebfcc](http://127.0.0.1:5500/catwebfcc.html)
 
 - 🌱 I’m currently learning **HTML, and CSS**
